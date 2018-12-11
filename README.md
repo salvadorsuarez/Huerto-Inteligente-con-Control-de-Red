@@ -1,3 +1,9 @@
+# INSTITUTO TECNOLÒGICO DE LEÒN.
+            ING. SISTEMAS COMPUTACIONALES
+            DOCENTE: ING. CARLOS RAFAEL LEVY ROJAS
+            MATERIAS: SISTEMAS PROGRAMABLES.
+                             
+
 # Proyecto Final
 # Proyecto Huerto Inteligente con conexión a la Red.
 >Creado por:Angely Yazmin Ramirez Martiez
@@ -61,8 +67,6 @@ tabletas de aruino.
 lenguajes de bocetos y otras tecnològias de software Arduino.
 - La implementaciòn del HW es totalmenet correcta.
 - El problema resuelto, el SW propuesto y HW propuesto son coherentes y adecuados para el problema escrito.
-
-## Pruebas del Hurto Funcionando.
 
 ## Referencias
 https://www.dropbox.com/sh/g4vq7ju5ym90vxl/AACDyctBp7z_N1a5C8oqZI0na?dl=0
