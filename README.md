@@ -6,7 +6,7 @@
 
 # Proyecto Final
 # Proyecto Huerto Inteligente con conexión a la Red.
->Creado por:Angely Yazmin Ramirez Martiez
+>Creado por:Angely Yazmin Ramirez Martinez
             Diego Salvador Suarez Quijas 
 
 >Contacto: tenshi_angee@hotmail.com
